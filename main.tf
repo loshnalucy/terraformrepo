@@ -68,7 +68,7 @@ resource "aws_security_group" "three" {
 }
 
 resource "aws_s3_bucket" "four" {
-  bucket = "raham0077552bucketterra"
+  bucket = "raham00789"
 }
 
 resource "aws_iam_user" "five" {
